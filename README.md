@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet often overlooked, issue in Perl: the unpredictable order of key iteration in a hash using the foreach loop.  The `bug.pl` file shows the problem, while `bugSolution.pl` offers a solution to ensure predictable iteration if needed.
